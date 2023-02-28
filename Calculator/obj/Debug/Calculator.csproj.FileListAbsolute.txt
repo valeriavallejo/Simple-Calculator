@@ -1,0 +1,11 @@
+C:\Users\veeva\Documents\Coding Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\veeva\Documents\Coding Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\veeva\Documents\Coding Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\veeva\Documents\Coding Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\veeva\Documents\Coding Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\veeva\Documents\Coding Projects\Calculator\Calculator\obj\Debug\Calculator.calculator.resources
+C:\Users\veeva\Documents\Coding Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\veeva\Documents\Coding Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\veeva\Documents\Coding Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\veeva\Documents\Coding Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\veeva\Documents\Coding Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
